@@ -11,7 +11,7 @@
             <div class="relative self-stretch text-center text-base leading-[150%] text-slategray">
                 © 2024 Kelompok SIMANIS
             </div>
-            <a class="flex flex-row items-center justify-start" href="#">
+            <a class="flex flex-row items-center justify-start" href="https://github.com/ROUVRE/SIMANIS" target=”_blank">
                 <i class="fa-brands fa-github"></i>
             </a>
         </div>
